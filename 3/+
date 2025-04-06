@@ -1,0 +1,5 @@
+#!/bin/bash
+mv /home/edu/Documentos/alsa/a /home/edu/Documentos/alsa/3 && mv /home/edu/Documentos/alsa/4 /home/edu/Documentos/alsa/a
+amixer set Master 80%
+yad --center --no-buttons --window-icon='/usr/share/icons/papirus-antix/48x48/status/task-attempt.png' --title='' --undecorated --close-on-unfocus --timeout=1 --text='<big><big><big>⬛⬛⬛⬛⬜</big></big></big>'
+
